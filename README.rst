@@ -306,4 +306,4 @@ __ https://github.com/earthreader/web/issues/27
 Version 0.1.0
 ~~~~~~~~~~~~~
 
-Released on December 23, 2013.  Alpha version.
+Released on December 23, 2013.  Alpha version..
