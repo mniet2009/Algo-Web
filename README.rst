@@ -1,7 +1,7 @@
 .. image:: https://raw.github.com/earthreader/web/master/artwork/icon_256x256.png
 
 
-Earth Reader for Web
+Earth Reader for Web.......
 ====================
 
 Web frontend of Earth Reader.
